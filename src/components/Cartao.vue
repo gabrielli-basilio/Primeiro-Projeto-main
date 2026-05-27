@@ -18,6 +18,6 @@
         background: white;
         padding: 20px;
         border-radius: 10px;
-        box-shadow: 0 5px 5px 0 black;
+        box-shadow: 0 5px 5px 0 rgb(0, 0, 0, 0.3);
     }
 </style>
